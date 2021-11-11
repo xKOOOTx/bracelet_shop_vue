@@ -4,7 +4,7 @@
       <li class="v-cart-popup__list_element"
           v-for="(item, index) in popup_cart_data"
           :key="item.article">
-        <img :src=" require('../../assets/images/' + item.image)"
+        <img :src=" require('../../assets/images/leather/' + item.image)"
              :alt="item.name"
              class="v-cart-popup__list_element_img">
         <div class="v-cart-popup__list_element_description">

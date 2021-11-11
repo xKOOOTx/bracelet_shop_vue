@@ -1,7 +1,7 @@
 <template>
   <div class="v-cart-item">
     <img class="v-cart-item__image"
-         :src=" require('../../assets/images/' + cart_item_data.image)"
+         :src=" require('../../assets/images/leather/' + cart_item_data.image)"
          :alt="cart_item_data.name">
     <div class="v-cart-item__info">
       <p class="v-cart-item__name">{{ cart_item_data.name }}</p>

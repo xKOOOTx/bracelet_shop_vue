@@ -1,52 +1,52 @@
 {
   "products": [
     {
-      "image": "1.jpg",
-      "name": "T-shirt 1",
+      "image": "leather_1.jpg",
+      "name": "Thin leather bracelet",
       "price": 2100,
       "article": "T1",
       "available": true,
-      "category": "Мужские"
+      "category": "Мужской"
     },
     {
-      "image": "2.jpg",
-      "name": "T-shirt 2",
+      "image": "leather_2.jpg",
+      "name": "Thin leather bracelet with metal",
       "price": 3150,
       "article": "T2",
       "available": true,
-      "category": "Женские"
+      "category": "Мужской"
     },
     {
-      "image": "3.jpg",
-      "name": "T-shirt 3",
+      "image": "leather_3.jpg",
+      "name": "Wide leather bracelet",
       "price": 4200,
       "article": "T3",
       "available": false,
-      "category": "Женские"
+      "category": "Мужской"
     },
     {
-      "image": "4.jpg",
-      "name": "T-shirt 4",
+      "image": "leather_4.jpg",
+      "name": "Wide leather bracelet with rivets",
       "price": 5300,
       "article": "T4",
       "available": true,
-      "category": "Мужские"
+      "category": "Мужской"
     },
     {
-      "image": "5.jpg",
-      "name": "T-shirt 5",
+      "image": "leather_5.jpg",
+      "name": "Thin leather bracelet with gold",
       "price": 6500,
       "article": "T5",
       "available": false,
-      "category": "Женские"
+      "category": "Мужской"
     },
     {
-      "image": "6.jpeg",
-      "name": "T-shirt 6",
+      "image": "leather_6.jpg",
+      "name": "Thin leather bracelet with gold",
       "price": 8700,
       "article": "T6",
       "available": true,
-      "category": "Женские"
+      "category": "Мужской"
     }
   ]
 }
