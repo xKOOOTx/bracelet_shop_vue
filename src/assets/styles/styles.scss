@@ -1,0 +1,38 @@
+@import './variables';
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a {
+  color: #000000;
+}
+
+li {
+  list-style: none;
+}
+
+.loader {
+  margin: 100px auto;
+  padding: 20px;
+}
+
+.btn {
+  margin: 5px;
+  padding: 5px 10px;
+  border-radius: $radius;
+  border: 1px solid #cccccc;
+  outline: none;
+  transition: all .2s ease-in-out;
+  &:hover,
+  &:focus {
+    background-color: darken(#ccc, 1%);
+    color: #fff;
+  }
+  &:active {
+    background-color: darken(#ccc, 20%);
+    color: darken(#ccc, 50%);
+  }
+}
